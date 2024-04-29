@@ -38,6 +38,12 @@ public class ArrayListName {
 			System.out.println(list);
 			return;
 		}
+		list.clone();
+		System.out.println(list);
+		//list.addAll(list);
+		System.out.println(list.isEmpty());
+		System.out.println("After clearing:");
+		list.clear();
 				
 	}
 
