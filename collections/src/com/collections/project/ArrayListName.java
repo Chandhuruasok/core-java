@@ -1,7 +1,5 @@
 package com.collections.project;
 import java.util.*;
-
-import com.mysql.cj.protocol.x.SyncFlushDeflaterOutputStream;
 public class ArrayListName {
 
 	public static void main(String[] args) {
